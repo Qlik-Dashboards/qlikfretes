@@ -16,7 +16,7 @@ O Dashboard de Análise de Fretes oferece diversas funcionalidades para apoiar a
 ### Tabela de Divisão Percentual por Região do Brasil
 ### Mapa de Localização das Cidades dos Clientes
 ### Divisão por Valor de Nota Fiscal
-![qlikfretes](https://github.com/matfurrier/qlikfretes/assets/30526394/a16c3283-464b-4d30-b3a5-2ffb0cb9c07e)
+![qlikfretes](https://github.com/matfurrier/qlikfretes/assets/30526394/77567c0f-1e64-4fd9-83f5-6032afc9d53b)
 *Tabela analítica que apresenta detalhadamente os valores pagos de fretes, divididos por cliente, nota fiscal e data, permitindo uma análise detalhada dos custos de fretes.*
 *Tabela que exibe a divisão percentual dos fretes por região do Brasil, comparando as metas e os valores realizados, auxiliando na avaliação do desempenho logístico.*
 *Mapa interativo que mostra as localizações das cidades dos clientes para onde os fretes são pagos, oferecendo insights geoespaciais.*
